@@ -8,10 +8,10 @@ can help u balance any Chemical Equation.
 The Program is built on top of python and sympy package(solve linear equation).
 
 =============
-To use it
-<code>
+To use it  
+<code>  
 from ChemicalEquation import *   # import module  
 result = Balance('C+CO2=CO')     # balance C+CO2=CO   
 print result                     # print result  
-#will print 1 C + 1 CO2  = 2 CO 
+#will print "1 C + 1 CO2  = 2 CO"
 </code>
